@@ -1,0 +1,36 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "retro_db_dev",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3000,
+    "operatorsAliases": false
+
+
+
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "retro_db_test",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3000 ,
+    "operatorsAliases": false
+
+
+
+  },
+  "production": {
+    "username": "root",
+    "password": "", 
+    "database": "retro_db_prod",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3000,
+    "operatorsAliases": false
+
+  }
+}
